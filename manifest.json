@@ -1,0 +1,14 @@
+{
+  "name": "installapp",
+  "description": "Install or remove CPTD command as Windows desktop app",
+  "version": "1.0",
+  "target": "windows",
+  "icon": "",
+  "entrypoint": "installapp.py",
+  "dependencies": ["pywin32"],
+  "author": "Asbjorn Rasen",
+  "email": "asbjornrasen@gmail.com",
+  "github": "https://github.com/asbjornrasen",
+  "website": "https://cryptoprotos.tech",
+  "license": "https://cptdcli.com/license.md"
+}
